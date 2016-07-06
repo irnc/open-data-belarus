@@ -14,6 +14,7 @@
 
 - http://eng.belta.by/society/view/public-data-website-to-go-online-in-belarus-in-2016-89472-2016/
 - http://beltelecom.by/en/news/company/the-international-seminar-open-government-data-in-the-republic-of-belarus-and-the-repub
+- https://groups.google.com/forum/#!topic/opendata-belarus/mZb8bKdirmo
 
 # Other
 
